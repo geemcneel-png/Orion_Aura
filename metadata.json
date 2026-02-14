@@ -1,0 +1,10 @@
+{
+  "name": "Aura Home AI Agent",
+  "description": "A sophisticated PWA Home AI Agent with custom personality, memory, and real-time voice capabilities using Gemini 2.5 and 3.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation",
+    "bluetooth"
+  ]
+}
